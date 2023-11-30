@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shehr Yar Ali</h1>
 <h3 align="center">A passionate Biotechnologist from Pakistan</h3>
 
-<img align+"right"alt="coding"width="400"src="https://i.pinimg.com/originals/44/0f/fb/440ffbd5c0ffe14a296f7c99a5242ef0.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehr-yar-ali&label=Profile%20views&color=0e75b6&style=flat" alt="shehr-yar-ali" /> </p>
 
 - 🔭 I’m currently working on **Biomaterials for Cardiovascular and Skeletal Muscles Disease's**
@@ -29,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehr-yar-ali&show_icons=true&locale=en" alt="shehr-yar-ali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehr-yar-ali&" alt="shehr-yar-ali" /></p>
-
